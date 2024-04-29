@@ -1,0 +1,6 @@
+networkx==2.5.1
+schnetpack==0.3
+bayesian-optimization==1.2.0
+msgpack==1.0.0
+e3fp==1.2.1
+pytorch-lightning==1.5.8
